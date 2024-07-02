@@ -9,7 +9,4 @@
 * Questions
 * Options/ Answers
 
-
 ### Code is well Commented, if you want to read my Code, You will feel easy to Understand it.
-
-## Cheers!
